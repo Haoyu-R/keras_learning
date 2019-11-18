@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66d33233-06e7-4375-8fd7-37f94d2a7529" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise_8_multiclass_kaggle_sign.py" afterDir="false" />
-    </list>
+    <list default="true" id="66d33233-06e7-4375-8fd7-37f94d2a7529" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,6 +199,9 @@
           <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise_8_multiclass_kaggle_sign.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../MDM data process_new/visualization_main.py">
       <provider selected="true" editor-type-id="text-editor">
